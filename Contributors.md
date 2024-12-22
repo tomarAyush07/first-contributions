@@ -1,5 +1,6 @@
 # Contributors
 
+- [Ayush Singh Tomar] (https://github.com/tomarAyush07)
 - [jasurgraduate] (https://github.com/jasurgraduate)
 - [uzuraDev](https://github.com/uzuraDev)
 - [Eugene Chia] (https://github.com/eugenechia)
